@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Satish Chandra </title>
+</head>
+<body>
+<center> <h2> My Profile </h2> </center>
+<a href="https://www.facebook.com/satishchandra007" target="_blank"> 
+<img src="Image.jpg" height="200px" title="Me" alt="Image">
+</a>
+<br>
+<p> Achievements </p>
+<ul>
+<li>Won the BRRM Basketball Tournament in Hyderabad.</li>
+<li>Runner up at Computer Olympiad conducted by ICSE Board.</li>
+<li>Got into IIT KGP.</li>
+<br>
+<p> I am Satish Chandra from Hyderbad. I have an amazing interest for music. I've learnt guitar for a few days but couldn't continue. I love watching movies. I play basketball and was a part of my school basketball team. </p>
+</body>
+<html>
